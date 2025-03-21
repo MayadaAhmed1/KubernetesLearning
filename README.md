@@ -13,13 +13,13 @@
 
 │── KubernetesLearning/
 
-├── kub-action-01-starting-setup 
- ├── dockerfile                        # Docker configuration
- ├── .dockerignore                     # Files to be ignored
- ├── package.json                      # Dependencies
- ├── app.js                            # Application source code  
- ├── images                            # Readme images 
-├── README.md                          # Project details`
+ ├── kub-action-01-starting-setup 
+  ├── dockerfile                        # Docker configuration
+  ├── .dockerignore                     # Files to be ignored
+  ├── package.json                      # Dependencies
+  ├── app.js                            # Application source code  
+  ├── images                            # Readme images 
+ ├── README.md                          # Project details`
 
 🎯 **Deploy Docker App using Kubernetes**
 
