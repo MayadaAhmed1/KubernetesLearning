@@ -21,9 +21,9 @@
  ├── images                            # Readme images 
 ├── README.md                          # Project details`
 
-# **Deploy Docker App using Kubernetes**
+🎯 **Deploy Docker App using Kubernetes**
 
- Pre requisite:
+ *Pre requisite:*
 
 Download kubctl (is the **command-line tool** used to interact with **Kubernetes clusters)**
 
@@ -42,7 +42,7 @@ install minikube dashboard to bring visual view for clusters
 
 `minikube dashboard` 
 
-Deployment Steps:
+*Deployment Steps:*
 
 Build docker image 
 
