@@ -15,7 +15,7 @@
 
  ├── kub-action-01-starting-setup 
   ├── dockerfile                        # Docker configuration
-  ├── .dockerignore                     # Files to be ignored
+  ├── dockerignore                     # Files to be ignored
   ├── package.json                      # Dependencies
   ├── app.js                            # Application source code  
   ├── images                            # Readme images 
