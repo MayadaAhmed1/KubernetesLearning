@@ -13,7 +13,7 @@
 
 │── KubernetesLearning/
 
- ├── kub-action-01-starting-setup 
+  ├── kub-action-01-starting-setup 
   ├── dockerfile                        # Docker configuration
   ├── dockerignore                     # Files to be ignored
   ├── package.json                      # Dependencies
